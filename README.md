@@ -1,10 +1,4 @@
-Below is the updated markdown code including a "Screenshots" section for you to add your images later. Simply copy and paste the code into your `README.md` file:
-
-```markdown
 # Sports Reservation App
-
-![Banner](https://via.placeholder.com/1200x300.png?text=Sports+Reservation+App)
-
 A dynamic platform designed to streamline sports facility reservations with a sleek, user-friendly experience. Enjoy hassle-free bookings, real-time availability, and a clean interface built for modern sports enthusiasts.
 
 ---
